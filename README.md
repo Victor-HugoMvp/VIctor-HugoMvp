@@ -1,4 +1,4 @@
-## Welcome to the profile the Victor Hugo Marcelino  😁
+## Welcome to the profile of Victor Hugo Marcelino  😁
 
  <div>
    <a href="https://github.com/Victor-HugoMvp">
