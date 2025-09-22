@@ -3,7 +3,7 @@ I'm Victor Hugo Computer engineer and software engineering enthusiast
 > Developing software and improving my knowledge
 
 
-### Tech Stack:
+## Tech Stack:
 <div align="center">
     <p>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -17,7 +17,7 @@ I'm Victor Hugo Computer engineer and software engineering enthusiast
     </p>
 </div>
 
-### 📚Exploring:
+## 📚Exploring:
 <div>
     <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
