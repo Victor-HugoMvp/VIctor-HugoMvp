@@ -1,5 +1,5 @@
 ## Hello Everyone!
-I'm Victor Hugo Computer engineer and software engineering enthusiast
+I'm Victor Hugo - Computer Engineer and Eoftware Engineering enthusiast
 > Developing software and improving my knowledge
 
 
