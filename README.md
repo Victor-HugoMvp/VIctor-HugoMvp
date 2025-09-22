@@ -1,4 +1,4 @@
-# Hello, I'm Victor Hugo, I'm a software and computer engineering student!
+# 👩🏽‍💻Hello, I'm Victor Hugo, I'm a software and computer engineering student!
 
 ## Principais Linguagens
 <div>
