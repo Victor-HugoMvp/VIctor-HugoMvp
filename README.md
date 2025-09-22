@@ -1,5 +1,5 @@
 # 👨🏽‍💻Hello Everyone!
-## I'm Victor Hugo —— Computer engineer and software engineering enthusiast
+## I'm Victor Hugo — Computer engineer and software engineering enthusiast
 ## Principais Linguagens
 <div>
   	<img align= "center" alt= "Victor-Java" height = "40" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
