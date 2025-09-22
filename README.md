@@ -1,5 +1,5 @@
 # 👨🏽‍💻Hello Everyone!
-## I'm Victor Hugo — Computer engineer and software engineering enthusiast
+# I'm Victor Hugo — Computer engineer and software engineering enthusiast
 Developing software and improving my knowledge
 ##
 ## Principais Linguagens
