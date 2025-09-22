@@ -35,5 +35,5 @@ I'm Victor Hugo — Computer Engineer and Eoftware Engineering enthusiast
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor-HugoMvp&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Victor-HugoMvp&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
 </a>
