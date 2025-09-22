@@ -28,6 +28,8 @@ I'm Victor Hugo — Computer Engineer and Eoftware Engineering enthusiast
 </div>
 
 ### Redes Sociais
-<a href="https://www.instagram.com/victorhugomcff/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+<a href="https://www.instagram.com/victorhugomcf/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/victor-hugo-marcelino-fraga-115245247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-<a href="https://discord.gg/baiano4303" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
+<a href="mailto:.victorhugofraga574@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
