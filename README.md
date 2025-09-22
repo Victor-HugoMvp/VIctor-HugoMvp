@@ -2,7 +2,7 @@
 ## I'm Victor Hugo  Computer engineer and software engineering enthusiast
 > Developing software and improving my knowledge.
 
-### 💻Tech Stack:
+## 💻Tech Stack:
 <div>
   	<p>
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
