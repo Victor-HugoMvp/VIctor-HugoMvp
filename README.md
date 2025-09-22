@@ -18,7 +18,7 @@ I'm Victor Hugo Computer engineer and software engineering enthusiast
 </div>
 
 ### 📚Exploring:
-<div align="center">
+<div>
     <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
