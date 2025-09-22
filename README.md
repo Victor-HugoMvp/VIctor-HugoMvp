@@ -2,12 +2,11 @@
 ## I'm Victor Hugo  Computer engineer and software engineering enthusiast
 > Developing software and improving my knowledge.
 
-### Tech Stack
+### 💻Tech Stack:
 <div>
   	<p>
-      <a href="">\
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-      </a>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      
     </p>
 </div>
 
