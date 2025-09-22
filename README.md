@@ -33,3 +33,7 @@ I'm Victor Hugo — Computer Engineer and Eoftware Engineering enthusiast
 <a href="mailto:victorhugofraga574@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+
+<a href="https://github.com/Victor-HugoMvp/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
+</a>
