@@ -15,8 +15,8 @@
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     </p>
   </div>
-
-  ##Exploring:
+  >
+  ## 📚Exploring:
     <div>
       <p>
          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
