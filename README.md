@@ -27,7 +27,7 @@ I'm Victor Hugo — Computer Engineer and Eoftware Engineering enthusiast
     </p>
 </div>
 
-### Redes Sociais
+### 🌐Social media
 <a href="https://www.instagram.com/victorhugomcf/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/victor-hugo-marcelino-fraga-115245247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 <a href="mailto:victorhugofraga574@gmail.com" target="_blank">
