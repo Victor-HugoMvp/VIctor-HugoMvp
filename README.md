@@ -2,7 +2,7 @@
 ## I'm Victor Hugo  Computer engineer and software engineering enthusiast
 > Developing software and improving my knowledge
 
-## Principais Linguagens
+### Principais Linguagens
 <div>
   	<img align= "center" alt= "Victor-Java" height = "40" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
     <img align= "center" alt= "Victor-Js" height = "40" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
