@@ -1,8 +1,9 @@
 # 👨🏽‍💻Hello Everyone!
-<p align="center">
+<p>
   I'm Victor Hugo — Computer engineer and software engineering enthusiast <br>
   Developing software and improving my knowledge
 </p>
+
 ## Principais Linguagens
 <div>
   	<img align= "center" alt= "Victor-Java" height = "40" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
