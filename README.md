@@ -9,8 +9,6 @@
     <img align= "center" alt= "Victor-Js" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
 </div>
 
-##
-
 ## Redes Sociais
 <div>
   <a href="https://www.instagram.com/victorhugomcf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
